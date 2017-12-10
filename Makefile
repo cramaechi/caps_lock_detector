@@ -1,5 +1,5 @@
 all:
-	g++ main.cpp -o capslock_detector
+	g++ main.cpp -o caps_lock_detector
 
 clean:
-	rm capslock_detector
+	rm caps_lock_detector
